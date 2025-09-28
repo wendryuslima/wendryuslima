@@ -5,7 +5,7 @@ Tive meu primeiro contato com tecnologia aos 10 anos e descobri minha paixão po
 
 🚀 Atualmente, meu foco está no desenvolvimento web utilizando a stack JavaScript (Node.js, React, TypeScript, Next.js) e em explorar novas tecnologias que possam enriquecer meu trabalho. Estou sempre aprendendo e me desafiando a melhorar como programador
 
-🏎 Sou apaixonado por esportes, com um grande interesse em automobilismo e Fórmula 1. Nas horas vagas, gosto de assistir às corridas e me envolver em simuladores de corrida.
+🏎 Sou apaixonado por esportes,e games. Nas horas vagas, gosto de assistir séries e filmes.
 
 💵 Além da programação, tenho um grande interesse em esportes e games.
 
