@@ -1,17 +1,9 @@
-👨🏻‍💻 About Me
-Tive meu primeiro contato com tecnologia aos 10 anos e descobri minha paixão por programação aos 17. Desde então, venho me dedicando ao desenvolvimento front-end, especialmente com React. Sou um programador focado em aprender e crescer, sempre buscando novas formas de melhorar minhas habilidades e otimizar meu código.
+Tenho contato com tecnologia desde os 10 anos e descobri minha paixão pela programação aos 17. Desde então, venho construindo minha trajetória como desenvolvedor web, com foco no desenvolvimento front-end utilizando React e o ecossistema JavaScript. Gosto de desenvolver interfaces modernas, performáticas e bem estruturadas, sempre preocupado não apenas com o visual, mas também com arquitetura, organização de código, escalabilidade e experiência do usuário.
 
-💚 Gosto de compartilhar meu conhecimento com a comunidade, seja ajudando outros desenvolvedores ou contribuindo com projetos. Estou constantemente em busca de oportunidades para evoluir e adoro ver o impacto positivo que posso ter com meu trabalho.
+Sou um desenvolvedor movido por aprendizado contínuo, buscando constantemente entender o porquê das decisões técnicas e aprimorar minhas habilidades através da prática, estudo e construção de projetos reais. Tenho experiência no desenvolvimento de aplicações web utilizando tecnologias como React, Next.js, TypeScript e Node.js, além de integração com APIs e modelagem de dados com Prisma e PostgreSQL.
 
-🚀 Atualmente, meu foco está no desenvolvimento web utilizando a stack JavaScript (Node.js, React, TypeScript, Next.js) e em explorar novas tecnologias que possam enriquecer meu trabalho. Estou sempre aprendendo e me desafiando a melhorar como programador
+Gosto de compartilhar conhecimento, colaborar com outros desenvolvedores e evoluir através da troca de experiências com a comunidade. Atualmente, sigo aprofundando meus estudos em arquitetura de aplicações front-end e desenvolvimento full stack, sempre buscando criar soluções mais eficientes e bem estruturadas.
 
-🏎 Sou apaixonado por esportes,e games. Nas horas vagas, gosto de assistir séries e filmes.
+Fora da programação, sou apaixonado por esportes, games, séries e filmes, interesses que também contribuem para minha criatividade e visão na construção de produtos digitais.
 
-💵 Além da programação, tenho um grande interesse em esportes e games.
-
-🛠 Tech Stack
-💻 Front-end:
-HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js
-
-⚙️ Back-end e banco de dados:
-Node.js, Prisma, PostgreSQL
+Tech Stack: HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Node.js, Prisma e PostgreSQL
