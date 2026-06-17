@@ -6,4 +6,4 @@ Gosto de compartilhar conhecimento, colaborar com outros desenvolvedores e evolu
 
 Fora da programação, sou apaixonado por esportes, games, séries e filmes, interesses que também contribuem para minha criatividade e visão na construção de produtos digitais.
 
-Tech Stack: HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Node.js, Prisma e PostgreSQL
+Tech Stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, Mongo, Go
