@@ -12,7 +12,7 @@ Acredito que evoluir como engenheiro de software vai além de aprender novas tec
 
 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, Svelte, TypeScript, JavaScript, HTML, CSS
+- **Frontend:** React, Next.js, Svelte, TypeScript, JavaScript
 - **Backend:** Node.js, Bun, Go
 - **Bancos de dados:** MongoDB, PostgreSQL
 - **Mensageria e comunicação:** NATS, NATS JetStream, WebSockets
