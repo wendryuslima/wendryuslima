@@ -4,7 +4,7 @@ Sou desenvolvedor de software com experiência no desenvolvimento de aplicaçõe
 
 Atualmente, trabalho com desenvolvimento **Full Stack**, participando de diferentes etapas da construção de software, desde a definição de soluções técnicas e arquitetura até a implementação, integração, manutenção e evolução de sistemas em produção.
 
-Tenho interesse especial em **arquitetura de software, sistemas distribuídos e desenvolvimento backend**. Gosto de compreender os problemas por trás de cada funcionalidade, avaliar trade-offs e construir soluções que priorizem organização, confiabilidade, manutenibilidade e escalabilidade.
+Tenho interesse especial em **arquitetura de software, sistemas distribuídos e desenvolvimento full-stack**. Gosto de compreender os problemas por trás de cada funcionalidade, avaliar trade-offs e construir soluções que priorizem organização, confiabilidade, manutenibilidade e escalabilidade.
 
 No dia a dia, trabalho com tecnologias do ecossistema JavaScript e TypeScript, desenvolvimento de serviços backend, bancos de dados, mensageria e integrações entre sistemas. Também venho aprofundando meus conhecimentos em Go e nos fundamentos de sistemas distribuídos.
 
