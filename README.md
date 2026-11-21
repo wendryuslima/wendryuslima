@@ -14,7 +14,7 @@ Acredito que evoluir como engenheiro de software vai além de aprender novas tec
 
 - **Frontend:** React, Next.js, Svelte, TypeScript, JavaScript
 - **Backend:** Node.js, Bun, Go
-- **Bancos de dados:** MongoDB, PostgreSQL
+- **Bancos de dados:** MongoDB, PostgreSQL, Cassandra
 - **Mensageria e comunicação:** NATS, NATS JetStream, WebSockets
 - **Infraestrutura:** Docker, APIs REST, microsserviços
 
